@@ -1,5 +1,5 @@
 ## description
-this is a repo for socially-store-robot.\
+this is a repo for [socially-store-robot](https://github.com/oocami35029287/socially-store-robot).\
 It's mean for the 3d camera detection and human-friendly path following functions.\
 
 ## get weights
